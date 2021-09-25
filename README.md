@@ -12,7 +12,7 @@
 -
 - 📫 How to reach me:dev.a.preetham5@gmail.com
 - ⚡ Fun fact: Am lil Crazy explore everything about tech
-<img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/happy.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/happy.gif?raw=true" width="300" height="320" />
 
 ### I am on:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
