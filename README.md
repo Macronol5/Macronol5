@@ -1,6 +1,6 @@
 #### Hi there,👋 I'm [Preetham Dev][website]  ![](https://visitor-badge.glitch.me/badge?page_id=Macronol5.Macronol5)
 
-<img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/programmer.gif?raw=true" width="500" height="320" />
 
 ## I'm a Currently a Student 
 - 🔭 I’m currently working on Pentesting
@@ -55,7 +55,7 @@
 <img align="left" alt="Java" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg" />
 <img align="left" alt="Debian" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/debian.svg" />
 <img align="left" alt="Curl" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/curl.svg" />
-<img align="left" alt="Codewars" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codewars.svg" />
+
 
 
 <br/>
