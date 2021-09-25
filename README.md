@@ -1,5 +1,5 @@
 #### Hi there,👋 I'm [Preetham Dev][website]
-## I'm a Student 
+## I'm a Currently a Student 
 - 🔭 I’m currently working on Pentesting
 - 🌱 I’m currently learning Cybersecurity 🔁 Programming Language
 - 😇 I'm little stupid guy dig everything
