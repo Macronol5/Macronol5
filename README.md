@@ -22,39 +22,16 @@
 ---
 ### 📺 My Youtube Videos
 - [How Important it is to keep Your data safe//Privacy](https://www.youtube.com/watch?v=0vZJ5pdXo0I&t=3s)
-- [All About Windows 10 shotcut Keys](https://www.youtube.com/watch?v=V701PmrKGkU)
+- [All About Windows 10 shotcut Keys](https://www.youtube.com/watch?v=V701PmrKGkU)<br />
+ 🔴[more videos...](https://youtube.com/codestackr)
+--
+
 
 [website]:https://www.flowcode.com/page/macronol5
 [twitter]:https://twitter.com/preethamDev7
 [youtube]:https://www.youtube.com/channel/UC0vU25uyA86ZZCAMHhP-49A
 [instagram]: https://instagram.com/clex_marto
 [linkedin]: https://linkedin.com/in/preetham-dev-13082
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
