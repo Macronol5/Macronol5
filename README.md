@@ -1,4 +1,4 @@
-#### Hi there,👋 I'm [Preetham Dev][website]      ![](https://visitor-badge.glitch.me/badge?page_id=Macronol5.Macronol5)
+#### Hi there,👋 I'm [Preetham Dev][website]  ![](https://visitor-badge.glitch.me/badge?page_id=Macronol5.Macronol5)
 
 <img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -26,17 +26,20 @@
 [![Preetham's github stats](https://github-readme-stats.vercel.app/api?username=Macronol5&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true)](https://github.com/Macronol5)
 
 ---
-<img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/focused.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/focused1.gif?raw=true" width="400" height="420" />
 
 
-### Languages 
-html                  █████████████████▓░░░░░░░░  <br/>
-C                     ████████████████▓░░░░░░░░░  <br/>
-C++                   ████████▓░░░░░░░░░░░░░░░░░  <br/>
-Java                  ███████████▒░░░░░░░░░░░░░░  <br/>
-Python                ████████░░░░░░░░░░░░░░░░░░  <br/>
-Bash Scripting        ██████░░░░░░░░░░░░░░░░░░░░  <br/>
+### Languages
+<br/>
+<pre>html                      █████████████████▓░░░░░░░░ </pre> 
+<pre>C                         ████████████████▓░░░░░░░░░  </pre> 
+<pre>C++                       ████████▓░░░░░░░░░░░░░░░░░  </pre> 
+<pre>Java                      ███████████▒░░░░░░░░░░░░░░  </pre> 
+<pre>Python                    ████████░░░░░░░░░░░░░░░░░░  </pre>
+<pre>Bash Scripting            ██████░░░░░░░░░░░░░░░░░░░░  </pre> 
 
+<br/>
+<br/>
 
 ### Tools I use or Operate with
 
@@ -55,10 +58,13 @@ Bash Scripting        ██████░░░░░░░░░░░░░�
 <img align="left" alt="Codewars" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/codewars.svg" />
 
 
-
+<br/>
+<br/>
 <br/>
 
 -------
+
+<br/>
 
 ### 📺 My Youtube Videos
 - [How Important it is to keep Your data safe//Privacy](https://www.youtube.com/watch?v=0vZJ5pdXo0I&t=3s)
