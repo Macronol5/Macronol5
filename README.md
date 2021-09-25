@@ -1,3 +1,5 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 #### Hi there,👋 I'm [Preetham Dev][website]  ![](https://visitor-badge.glitch.me/badge?page_id=Macronol5.Macronol5)
 
 <img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/programmer.gif?raw=true" width="500" height="320" />
@@ -9,7 +11,6 @@
 - 👯 I’m looking to collaborate on opensource projects
 - 🤔 I’m looking for help with Pentesters
 - 💬 Ask me about Anything
--
 - 📫 How to reach me:dev.a.preetham5@gmail.com
 - ⚡ Fun fact: Am lil Crazy explore everything about tech
 
@@ -31,40 +32,47 @@
 
 ### Languages
 <br/>
-<pre>html                      █████████████████▓░░░░░░░░ </pre> 
-<pre>C                         ████████████████▓░░░░░░░░░  </pre> 
-<pre>C++                       ████████▓░░░░░░░░░░░░░░░░░  </pre> 
-<pre>Java                      ███████████▒░░░░░░░░░░░░░░  </pre> 
-<pre>Python                    ████████░░░░░░░░░░░░░░░░░░  </pre>
-<pre>Bash Scripting            ██████░░░░░░░░░░░░░░░░░░░░  </pre> 
+<code><img alt="Bash" title="Bash" src="https://github.com/Macronol5/Macronol5/blob/main/icons/html.png" height="42"></a></code>                      █████████████████▓░░░░░░░░  <br/>
+<code><img alt="C" title="C" src="https://github.com/Macronol5/Macronol5/blob/main/icons/c.png" height="42"></a></code>                        ████████████████▓░░░░░░░░░   <br/> 
+<code><img alt="C++" title="C++" src="https://github.com/Macronol5/Macronol5/blob/main/icons/c++.png" height="42"></a></code>                      ████████▓░░░░░░░░░░░░░░░░░  <br/>
+<code><img alt="Java" title="Java" src="https://github.com/Macronol5/Macronol5/blob/main/icons/java.png" height="42"></a></code>                    ███████████▒░░░░░░░░░░░░░░  <br/> 
+<code><img alt="Python" title="Python" src="https://github.com/Macronol5/Macronol5/blob/main/icons/python.png" height="42"></a></code>                  ████████░░░░░░░░░░░░░░░░░░   <br/>
+<code><img alt="Bash Scripting" title="Java" src="https://github.com/Macronol5/Macronol5/blob/main/icons/bash.png" height="42"></a></code>          ██████░░░░░░░░░░░░░░░░░░░░  
 
 <br/>
 <br/>
 
 ### Tools I use or Operate with
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Terminal" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Firefox" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/firefox.svg" />
-<img align="left" alt="Linux" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linux.svg" />
-<img align="left" alt="kaliLinux" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kalilinux.svg" />
-<img align="left" alt="Juypter" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jupyter.svg" />
-<img align="left" alt="Java" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg" />
-<img align="left" alt="Debian" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/debian.svg" />
-<img align="left" alt="Curl" width="26px"src="https://github.com/simple-icons/simple-icons/blob/develop/icons/curl.svg" />
+<code><img alt="vscode"  src="https://github.com/Macronol5/Macronol5/blob/main/icons/vscode.png" height="42"></a></code>
+<code><img alt="Git" src="https://github.com/Macronol5/Macronol5/blob/main/icons/git.png" height="42"></a></code>
+<code><img alt="Github"  src="https://github.com/Macronol5/Macronol5/blob/main/icons/github.png" height="42"></a></code>
+<code><img alt="MySql" src="https://github.com/Macronol5/Macronol5/blob/main/icons/mysql.png" height="42"></a></code>
+<code><img alt="Nslookup" src="https://github.com/Macronol5/Macronol5/blob/main/icons/nslookup.png" height="42"></a></code>
+<code><img alt="Whois" src="https://github.com/Macronol5/Macronol5/blob/main/icons/whois.png" height="42"></a></code>
+<code><img alt="Terminal"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" height="42"></a></code>
+<code><img alt="Subline"  src="https://github.com/Macronol5/Macronol5/blob/main/icons/subline.jpeg" height="42"></a></code>
+<code><img alt="FireFox"  src="https://github.com/simple-icons/simple-icons/blob/develop/icons/firefox.svg" height="42"></a></code>
+<code><img alt="Juypter"  src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jupyter.svg" height="42"></a></code>
+<code><img alt="Curl"  src="https://github.com/simple-icons/simple-icons/blob/develop/icons/curl.svg" height="42"></a></code>
+<code><img alt="BurpSuite"  src="https://github.com/Macronol5/Macronol5/blob/main/icons/burpsuite.png" height="42"></a></code>
+<code><img alt="Nmap"  src="https://github.com/Macronol5/Macronol5/blob/main/icons/nmap.jpeg" height="42"></a></code>
 
 
 
-<br/>
-<br/>
-<br/>
 
--------
+### Operating System I Use....
+<code> <img alt="Linux" title="Linux" src="https://github.com/Macronol5/Macronol5/blob/main/icons/linux.jpeg" height="42"></a></code>
+<code> <img alt="Ubuntu" title="Ubuntu" src="https://github.com/Macronol5/Macronol5/blob/main/icons/ubuntu.png" height="42"></a></code>
+<code> <img alt="Windows 10" title="Windows 10" src="https://github.com/Macronol5/Macronol5/blob/main/icons/windows%2010.png" height="42"></a></code>
+<code><img alt="Debian" title="Debian" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/debian.svg" height="42"></a></code>
+<code><img alt="Kali Linux" title="" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kalilinux.svg" height="42"></a></code>
 
-<br/>
+
+
+---
+
+
 
 ### 📺 My Youtube Videos
 - [How Important it is to keep Your data safe//Privacy](https://www.youtube.com/watch?v=0vZJ5pdXo0I&t=3s)
@@ -72,19 +80,6 @@
 🔴[more videos...](https://www.youtube.com/channel/UC0vU25uyA86ZZCAMHhP-49A)
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
