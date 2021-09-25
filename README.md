@@ -2,26 +2,14 @@
 
 
 ### I'm a Student 
-
-- 🐱‍💻I am 
-
-<!--
-**Macronol5/Macronol5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on Pentesting
+- 🌱 I’m currently learning Cybersecurity 🔁 Programming Language
+- 👯 I’m looking to collaborate on ..
+- 🤔 I’m looking for help with Pentesters
+- 💬 Ask me about Privacy
+- 📫 How to reach me: [Email]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-
-
 
 ### I am on:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -40,7 +28,7 @@ Here are some ideas to get you started:
 [youtube]:https://www.youtube.com/channel/UC0vU25uyA86ZZCAMHhP-49A
 [instagram]: https://instagram.com/clex_marto
 [linkedin]: https://linkedin.com/in/preetham-dev-13082
-
+[Email]:dev.a.preetham5@gmail.com
 
 
 
