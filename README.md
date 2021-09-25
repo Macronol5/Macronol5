@@ -1,5 +1,5 @@
 #### Hi there,👋 I'm [Preetham Dev][website]
-[![Website](https://img.shields.io/website?label=Preetham Dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.flowcode.com/page/macronol5) 
+[![website](https://img.shields.io/website?label=Preetham Dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.flowcode.com/page/macronol5) 
 
 <!--
 **Macronol5/Macronol5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
