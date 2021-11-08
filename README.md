@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/programmer.gif?raw=true" width="500" height="320" />
 
 ## I'm a Currently a Student 
-- 🔭 I’m currently working on Pentesting
+- 🔭 I’m currently working on Web Pentesting
 - 🌱 I’m currently learning Cybersecurity 🔁 Programming Language 
 - 😇 I'm little stupid guy dig everything
 - 👯 I’m looking to collaborate on opensource projects
