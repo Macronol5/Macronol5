@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, People! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #### Hi there,👋 I'm [Preetham Dev][website]  ![](https://visitor-badge.glitch.me/badge?page_id=Macronol5.Macronol5)
 
