@@ -32,12 +32,13 @@
 
 ### Languages
 <br/>
-<code><img alt="Bash" title="Bash" src="https://github.com/Macronol5/Macronol5/blob/main/icons/html.png" height="42"></a></code>                      █████████████████▓░░░░░░░░  <br/>
-<code><img alt="C" title="C" src="https://github.com/Macronol5/Macronol5/blob/main/icons/c.png" height="42"></a></code>                        ████████████████▓░░░░░░░░░   <br/> 
+<code><img alt="Bash" title="Bash" src="https://github.com/Macronol5/Macronol5/blob/main/icons/html.png" height="42"></a></code>                      ██████████████████████▓░░░  <br/>
+<code><img alt="C" title="C" src="https://github.com/Macronol5/Macronol5/blob/main/icons/c.png" height="42"></a></code>                        ████████████████████▓░░░░░   <br/> 
 <code><img alt="C++" title="C++" src="https://github.com/Macronol5/Macronol5/blob/main/icons/c++.png" height="42"></a></code>                      ████████▓░░░░░░░░░░░░░░░░░  <br/>
 <code><img alt="Java" title="Java" src="https://github.com/Macronol5/Macronol5/blob/main/icons/java.png" height="42"></a></code>                    ███████████▒░░░░░░░░░░░░░░  <br/> 
 <code><img alt="Python" title="Python" src="https://github.com/Macronol5/Macronol5/blob/main/icons/python.png" height="42"></a></code>                  ████████░░░░░░░░░░░░░░░░░░   <br/>
 <code><img alt="Bash Scripting" title="Java" src="https://github.com/Macronol5/Macronol5/blob/main/icons/bash.png" height="42"></a></code>          ██████░░░░░░░░░░░░░░░░░░░░  
+<code><img alt="JavaScript" title="JavaScript" src="https://github.com/Macronol5/Macronol5/blob/main/icons/js.png" height="42"></a></code>          ██████░░░░░░░░░░░░░░░░░░░░  
 
 <br/>
 <br/>
