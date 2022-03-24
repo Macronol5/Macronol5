@@ -32,13 +32,17 @@
 
 ### Languages
 <br/>
-<code><img alt="Bash" title="Bash" src="https://github.com/Macronol5/Macronol5/blob/main/icons/html.png" height="42"></a></code>                      ██████████████████████▓░░░  <br/>
+<code ><img  href="https://www.python.org/" alt="Bash" title="Bash" src="https://github.com/Macronol5/Macronol5/blob/main/icons/html.png" height="42"></a></code>                               
+██████████████████████▓░░░  <br/>
+<code><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a></code> █████████░░░░░░░░░░░░░░░░░  <br/>
+<code><img alt="CSS" title="CSS" src="https://github.com/Macronol5/Macronol5/blob/main/icons/css.png" height="42"></a></code>          ████████████████░░░░░░░░░░  <br/>
+<code><img alt="SASS" title="SASS" src="https://github.com/Macronol5/Macronol5/blob/main/icons/sass.png" height="42"></a></code>                  ████████░░░░░░░░░░░░░░░░░░   <br/>
 <code><img alt="C" title="C" src="https://github.com/Macronol5/Macronol5/blob/main/icons/c.png" height="42"></a></code>                        ████████████████████▓░░░░░   <br/> 
 <code><img alt="C++" title="C++" src="https://github.com/Macronol5/Macronol5/blob/main/icons/c++.png" height="42"></a></code>                      ████████▓░░░░░░░░░░░░░░░░░  <br/>
 <code><img alt="Java" title="Java" src="https://github.com/Macronol5/Macronol5/blob/main/icons/java.png" height="42"></a></code>                    ███████████▒░░░░░░░░░░░░░░  <br/> 
 <code><img alt="Python" title="Python" src="https://github.com/Macronol5/Macronol5/blob/main/icons/python.png" height="42"></a></code>                  ████████░░░░░░░░░░░░░░░░░░   <br/>
 <code><img alt="Bash Scripting" title="Java" src="https://github.com/Macronol5/Macronol5/blob/main/icons/bash.png" height="42"></a></code>          ██████░░░░░░░░░░░░░░░░░░░░  <br/>
-<code><img alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="42"></a></code>          ██████░░░░░░░░░░░░░░░░░░░░  
+
 
 <br/>
 <br/>
