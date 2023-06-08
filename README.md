@@ -1,6 +1,6 @@
 # Hello, People! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### Hi there,👋 I'm [Preetham Dev][website]  ![](https://visitor-badge.glitch.me/badge?page_id=Macronol5.Macronol5) <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
+#### Hi there,👋 I'm [Preetham Dev][website]  ![] <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
 
 <img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/programmer.gif?raw=true" width="500" height="320" />
 
@@ -113,11 +113,11 @@
 
 
 
-[website]:https://www.flowcode.com/page/macronol5
+[website]:https://linktr.ee/Macronol5
 [twitter]:https://twitter.com/preethamDev7
 [youtube]:https://www.youtube.com/channel/UC0vU25uyA86ZZCAMHhP-49A
 [instagram]: https://instagram.com/clex_marto
-[linkedin]: https://linkedin.com/in/preetham-dev-13082
+[linkedin]: https://linkedin.com/in/pdtb
 
 
 
