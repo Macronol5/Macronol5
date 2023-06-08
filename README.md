@@ -7,9 +7,8 @@
 ## I'm a Currently a Student 
 - 🔭 I’m currently working on Open Source
 - 🌱 I’m currently learning Cybersecurity 🔁 Programming Language 
-- 😇 I'm little stupid guy dig everything
 - 👯 I’m looking to collaborate on opensource projects
-- 🤔 I’m looking for help with Pentesters
+- 🤔 Looking for help with Pentesters
 - 💬 Ask me about Anything
 - 📫 How to reach me:dev.a.preetham5@gmail.com
 - ⚡ Fun fact: Am lil Crazy explore everything about tech
