@@ -1,6 +1,6 @@
 # Hello, People! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### Hi there,👋 I'm [Preetham Dev][website]  ![] <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
+#### Hi there,👋 I'm [Preetham Dev][website]  ! <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
 
 <img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/programmer.gif?raw=true" width="500" height="320" />
 
