@@ -18,7 +18,6 @@
 
 ## Connect with Me
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)][website]
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)][linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
@@ -59,18 +58,11 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
----
-
-## 📺 Latest YouTube Videos
-- [How Important it is to Keep Your Data Safe // Privacy](https://www.youtube.com/watch?v=0vZJ5pdXo0I&t=3s)
-- [All About Windows 10 Shortcut Keys](https://www.youtube.com/watch?v=V701PmrKGkU)
-🔴 [more videos...](https://www.youtube.com/channel/UC0vU25uyA86ZZCAMHhP-49A)
 
 ---
 
 [website]: https://linktr.ee/Macronol5
 [twitter]: https://twitter.com/preethamDev7
-[youtube]: https://www.youtube.com/channel/UC0vU25uyA86ZZCAMHhP-49A
 [instagram]: https://instagram.com/clex_marto
 [linkedin]: https://linkedin.com/in/pdtb
 
