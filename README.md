@@ -2,6 +2,10 @@
 
 #### I'm [Preetham Dev][website] ! ![](https://komarev.com/ghpvc/?username=Macronol5&color=brightgreen&style=plastic&label=PROFILE+VIEWS) <a href="https://github.com/ossu/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>
 
+## 👋 Follow Me on GitHub!
+If you find my work useful, consider following me on GitHub!  
+[![Follow Me](https://img.shields.io/github/followers/Macronol5?style=social)](https://github.com/Macronol5)
+
 
 <img align="right" alt="GIF" src="https://github.com/Macronol5/Macronol5/blob/main/programmer.gif?raw=true" width="500" height="320" />
 
